@@ -1,0 +1,31 @@
+name: flutter_webview
+description: Mahabharti Global App.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# Update On Official Builds
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  # All Required Dependencies  
+  connectivity: ^3.0.2
+  firebase_messaging: ^10.0.0
+  rounded_loading_button: ^2.0.4
+  share: ^2.0.1
+  splash_screen_view: ^1.0.3
+  url_launcher: ^6.0.2
+  webview_flutter: ^2.0.7  
+  rate_my_app: ^1.1.0+1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - logo.jpg
