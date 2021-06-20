@@ -14,6 +14,7 @@ A few small and simple steps you need to follow to get this working :)
 - run `flutter pub get` within this folder via terminal. 👩‍💻
 - Connect a device Physical, Emulator or iOS Simulator.
 - run with either `flutter run` or ▶ button in Your IDE. 📲
+- Don't Forget to add your own Firebase configs / files.
 
 
 ## Official Flutter Documentation
